@@ -1,0 +1,2106 @@
+{
+  "version": "0.1",
+  "catalog": [
+    {
+      "id": "Bengal_103",
+      "image": "images/Bengal_103.jpg",
+      "label": "bengal",
+      "kind": "catalog",
+      "split": "train",
+      "source": "https://huggingface.co/datasets/timm/oxford-iiit-pet/viewer/default/train?row=44",
+      "sha256": "9fba14993989a51821a1f954397a9017070ea727bed4250823e98254093455f9",
+      "original_sha256": "6b11b16056bb95b9bbbf4919b2e6c3b65bbc9088af6831c6805774cd64823775",
+      "license": "CC-BY-SA-4.0",
+      "changes": "Resized to fit384x384 and re-encoded JPEG"
+    },
+    {
+      "id": "Bengal_176",
+      "image": "images/Bengal_176.jpg",
+      "label": "bengal",
+      "kind": "catalog",
+      "split": "train",
+      "source": "https://huggingface.co/datasets/timm/oxford-iiit-pet/viewer/default/train?row=73",
+      "sha256": "910fb416db82eecfbb9f0bb4e284b7dc6950196f31196d586910831fca9632ed",
+      "original_sha256": "cf82f95e1d119221aa5806a5b11a8efdcd98d1edf25bbfc6fe80a0d8491e7afd",
+      "license": "CC-BY-SA-4.0",
+      "changes": "Resized to fit384x384 and re-encoded JPEG"
+    },
+    {
+      "id": "Bengal_123",
+      "image": "images/Bengal_123.jpg",
+      "label": "bengal",
+      "kind": "catalog",
+      "split": "train",
+      "source": "https://huggingface.co/datasets/timm/oxford-iiit-pet/viewer/default/train?row=83",
+      "sha256": "550b49c1140fa18c2fa9742ed28497f22f724f4c139549fb95d9b3f43a2c3c5b",
+      "original_sha256": "5e6c6e8af919e397f015f9f438ff1c3ebcfe1faa9e93b6d2ea5bbcdb027b1e7f",
+      "license": "CC-BY-SA-4.0",
+      "changes": "Resized to fit384x384 and re-encoded JPEG"
+    },
+    {
+      "id": "Bengal_182",
+      "image": "images/Bengal_182.jpg",
+      "label": "bengal",
+      "kind": "catalog",
+      "split": "train",
+      "source": "https://huggingface.co/datasets/timm/oxford-iiit-pet/viewer/default/train?row=108",
+      "sha256": "eb88aa4741d22926ad2828ce3277eb9e648a7da6c096ab36e23932612fb46ef4",
+      "original_sha256": "516dcda7e7c8bef7fd6905399932154865be47a9216d57494b2ceedaaadf7cf2",
+      "license": "CC-BY-SA-4.0",
+      "changes": "Resized to fit384x384 and re-encoded JPEG"
+    },
+    {
+      "id": "British_Shorthair_100",
+      "image": "images/British_Shorthair_100.jpg",
+      "label": "british_shorthair",
+      "kind": "catalog",
+      "split": "train",
+      "source": "https://huggingface.co/datasets/timm/oxford-iiit-pet/viewer/default/train?row=11",
+      "sha256": "47d1e31c5f6fdc496a1c204e66593b0a2fe02a5535d978753528358f15a9765c",
+      "original_sha256": "dfce3e7befacea9079ace8d719290b1c085b20dcc7d8961311320bad8eac6970",
+      "license": "CC-BY-SA-4.0",
+      "changes": "Resized to fit384x384 and re-encoded JPEG"
+    },
+    {
+      "id": "British_Shorthair_179",
+      "image": "images/British_Shorthair_179.jpg",
+      "label": "british_shorthair",
+      "kind": "catalog",
+      "split": "train",
+      "source": "https://huggingface.co/datasets/timm/oxford-iiit-pet/viewer/default/train?row=13",
+      "sha256": "2b82a5c9d989b9681998d6496e1e37451e92b519a212e65792c5d7517e0cc497",
+      "original_sha256": "c2823281a137bb2f48f0797a1449d59ddb2aee7f25ba94bf0e290c587866cc30",
+      "license": "CC-BY-SA-4.0",
+      "changes": "Resized to fit384x384 and re-encoded JPEG"
+    },
+    {
+      "id": "British_Shorthair_189",
+      "image": "images/British_Shorthair_189.jpg",
+      "label": "british_shorthair",
+      "kind": "catalog",
+      "split": "train",
+      "source": "https://huggingface.co/datasets/timm/oxford-iiit-pet/viewer/default/train?row=18",
+      "sha256": "f7c91d5c6f943b46934cb369d40499b29b99bbca4d6f67a9c1a1f79800531508",
+      "original_sha256": "394ef5db93b70af48ec2a51ba3909bb50d3a075ae52e226483bad53f8659db88",
+      "license": "CC-BY-SA-4.0",
+      "changes": "Resized to fit384x384 and re-encoded JPEG"
+    },
+    {
+      "id": "British_Shorthair_176",
+      "image": "images/British_Shorthair_176.jpg",
+      "label": "british_shorthair",
+      "kind": "catalog",
+      "split": "train",
+      "source": "https://huggingface.co/datasets/timm/oxford-iiit-pet/viewer/default/train?row=117",
+      "sha256": "84b87ef29863265b12fa8e05ad0e15a7fc759af7c48fab73f59895f94540499a",
+      "original_sha256": "6067b134422218beaabc3e722d395524daa6b002c5ae4d9994bac18713d42f30",
+      "license": "CC-BY-SA-4.0",
+      "changes": "Resized to fit384x384 and re-encoded JPEG"
+    },
+    {
+      "id": "Siamese_167",
+      "image": "images/Siamese_167.jpg",
+      "label": "siamese",
+      "kind": "catalog",
+      "split": "train",
+      "source": "https://huggingface.co/datasets/timm/oxford-iiit-pet/viewer/default/train?row=15",
+      "sha256": "5bef27ea2cf5cd43f5fb88ade7ab49746df40fb51a647ab6dcd95de22e1a251a",
+      "original_sha256": "81ae47c534c3e949305a0827997d0f8b1cb5d9d12d9dd6d1f43e878e9ac5f5d9",
+      "license": "CC-BY-SA-4.0",
+      "changes": "Resized to fit384x384 and re-encoded JPEG"
+    },
+    {
+      "id": "Siamese_14",
+      "image": "images/Siamese_14.jpg",
+      "label": "siamese",
+      "kind": "catalog",
+      "split": "train",
+      "source": "https://huggingface.co/datasets/timm/oxford-iiit-pet/viewer/default/train?row=47",
+      "sha256": "cd27d4de8444dd1bfe94bf163d6b8523490233394fb7538b59e661c941ea18cd",
+      "original_sha256": "47cdb5114426404e47c262a463b847561df9e255b2653bdf687514f5c64a625f",
+      "license": "CC-BY-SA-4.0",
+      "changes": "Resized to fit384x384 and re-encoded JPEG"
+    },
+    {
+      "id": "Siamese_171",
+      "image": "images/Siamese_171.jpg",
+      "label": "siamese",
+      "kind": "catalog",
+      "split": "train",
+      "source": "https://huggingface.co/datasets/timm/oxford-iiit-pet/viewer/default/train?row=125",
+      "sha256": "65183c55a676b36b1a9d77ce2518f482272cb9d90770622ce7cb3ac10b615182",
+      "original_sha256": "49441515920deb87132c83907ace20d792f45b4f24eda14d8557b30a55629b7b",
+      "license": "CC-BY-SA-4.0",
+      "changes": "Resized to fit384x384 and re-encoded JPEG"
+    },
+    {
+      "id": "Siamese_160",
+      "image": "images/Siamese_160.jpg",
+      "label": "siamese",
+      "kind": "catalog",
+      "split": "train",
+      "source": "https://huggingface.co/datasets/timm/oxford-iiit-pet/viewer/default/train?row=206",
+      "sha256": "b714baf982c12e1fde1d12f8bdc26826a522e5fd0ec7670e57198200dbf8532d",
+      "original_sha256": "51a6496e879c1608597e75fdb35e9014512720f441203e602b2985d9504125f1",
+      "license": "CC-BY-SA-4.0",
+      "changes": "Resized to fit384x384 and re-encoded JPEG"
+    },
+    {
+      "id": "Sphynx_202",
+      "image": "images/Sphynx_202.jpg",
+      "label": "sphynx",
+      "kind": "catalog",
+      "split": "train",
+      "source": "https://huggingface.co/datasets/timm/oxford-iiit-pet/viewer/default/train?row=20",
+      "sha256": "6178f86be27a64dad8cd3a3becdb39f5a5d02f56aad3d9b7ba3841bfe469d57c",
+      "original_sha256": "9a4514fce37311b85b33c7f91e6e6f7d378f7ca9c8be3ca0bfc435aa772d560f",
+      "license": "CC-BY-SA-4.0",
+      "changes": "Resized to fit384x384 and re-encoded JPEG"
+    },
+    {
+      "id": "Sphynx_1",
+      "image": "images/Sphynx_1.jpg",
+      "label": "sphynx",
+      "kind": "catalog",
+      "split": "train",
+      "source": "https://huggingface.co/datasets/timm/oxford-iiit-pet/viewer/default/train?row=66",
+      "sha256": "79fb15845dc40c3e7fea90045b3047f0a25993bbc479abd6f120a56ac80f1389",
+      "original_sha256": "0b87ee30a034876a6a663d93066310edcd3be5d75706fa4e7b5711f97a944553",
+      "license": "CC-BY-SA-4.0",
+      "changes": "Resized to fit384x384 and re-encoded JPEG"
+    },
+    {
+      "id": "Sphynx_172",
+      "image": "images/Sphynx_172.jpg",
+      "label": "sphynx",
+      "kind": "catalog",
+      "split": "train",
+      "source": "https://huggingface.co/datasets/timm/oxford-iiit-pet/viewer/default/train?row=70",
+      "sha256": "9607ba186563cb907b6895a321a9a54ef5c23e2648a2454cc75d00479aa61852",
+      "original_sha256": "252175d0d90bd7bf2697058b9467cf23a71e813f7e86b79b6bedd23643578799",
+      "license": "CC-BY-SA-4.0",
+      "changes": "Resized to fit384x384 and re-encoded JPEG"
+    },
+    {
+      "id": "Sphynx_160",
+      "image": "images/Sphynx_160.jpg",
+      "label": "sphynx",
+      "kind": "catalog",
+      "split": "train",
+      "source": "https://huggingface.co/datasets/timm/oxford-iiit-pet/viewer/default/train?row=74",
+      "sha256": "7d3b274f02c3c292eeb48781878c2b95078c1d444f619bfdb41ad8e214fc212c",
+      "original_sha256": "14668f38b89238f23d39ce30a49b4e4dcf17a8076cb704d29143b03d41881cdf",
+      "license": "CC-BY-SA-4.0",
+      "changes": "Resized to fit384x384 and re-encoded JPEG"
+    },
+    {
+      "id": "beagle_178",
+      "image": "images/beagle_178.jpg",
+      "label": "beagle",
+      "kind": "catalog",
+      "split": "train",
+      "source": "https://huggingface.co/datasets/timm/oxford-iiit-pet/viewer/default/train?row=51",
+      "sha256": "12faec6398f864825ec8f95da118d65e6d5fac1744a00d6d8ac7325cdfe434a5",
+      "original_sha256": "f872d47c3cffdcc03736856910500b8a4b4030096985cd3e59faafd5da310e98",
+      "license": "CC-BY-SA-4.0",
+      "changes": "Resized to fit384x384 and re-encoded JPEG"
+    },
+    {
+      "id": "beagle_143",
+      "image": "images/beagle_143.jpg",
+      "label": "beagle",
+      "kind": "catalog",
+      "split": "train",
+      "source": "https://huggingface.co/datasets/timm/oxford-iiit-pet/viewer/default/train?row=123",
+      "sha256": "7b03d588169e8c6c9f920e4cce53f700d1d0e3cc5251146cb71253254bfefb21",
+      "original_sha256": "ba6f6aef704dfc474dc46de6726d06228facfe3a3a7a5694cf06bc0e775c8fe0",
+      "license": "CC-BY-SA-4.0",
+      "changes": "Resized to fit384x384 and re-encoded JPEG"
+    },
+    {
+      "id": "beagle_157",
+      "image": "images/beagle_157.jpg",
+      "label": "beagle",
+      "kind": "catalog",
+      "split": "train",
+      "source": "https://huggingface.co/datasets/timm/oxford-iiit-pet/viewer/default/train?row=137",
+      "sha256": "22d191992ef8cb1da61a8ee8e49ebb562f7d3933f7e2dba5b89664845fba616b",
+      "original_sha256": "0cc99c61508007b5cfbf9f8424d225bfb3a14fd09c22cdfedce01c5be90c79e5",
+      "license": "CC-BY-SA-4.0",
+      "changes": "Resized to fit384x384 and re-encoded JPEG"
+    },
+    {
+      "id": "beagle_188",
+      "image": "images/beagle_188.jpg",
+      "label": "beagle",
+      "kind": "catalog",
+      "split": "train",
+      "source": "https://huggingface.co/datasets/timm/oxford-iiit-pet/viewer/default/train?row=177",
+      "sha256": "e41061e65f7d980cd874c63c96d3202b2e3439564862c530b8d6772b6ff573cb",
+      "original_sha256": "39d8fe80ba84e3f86cf853a6e21c58222017ea945a4ce86b6ce6ce9f2b7fa4bf",
+      "license": "CC-BY-SA-4.0",
+      "changes": "Resized to fit384x384 and re-encoded JPEG"
+    },
+    {
+      "id": "pug_123",
+      "image": "images/pug_123.jpg",
+      "label": "pug",
+      "kind": "catalog",
+      "split": "train",
+      "source": "https://huggingface.co/datasets/timm/oxford-iiit-pet/viewer/default/train?row=9",
+      "sha256": "c90c19c9d5099c106a23bbe0c5fe7400833e0d7c58eea4613bd0d679f1bd911f",
+      "original_sha256": "fe935bcbc449cd2ce362b504c77bb0ed07093c37bfe9517cb6c44a75798e7310",
+      "license": "CC-BY-SA-4.0",
+      "changes": "Resized to fit384x384 and re-encoded JPEG"
+    },
+    {
+      "id": "pug_10",
+      "image": "images/pug_10.jpg",
+      "label": "pug",
+      "kind": "catalog",
+      "split": "train",
+      "source": "https://huggingface.co/datasets/timm/oxford-iiit-pet/viewer/default/train?row=36",
+      "sha256": "9b486535668dac7da4364414598df9038ba1ddf72352929bd24f3de7d68c6fba",
+      "original_sha256": "41d33317e928bc2bc6900aa8a72ab840d9064178c914aab326fa91bea84f8d0d",
+      "license": "CC-BY-SA-4.0",
+      "changes": "Resized to fit384x384 and re-encoded JPEG"
+    },
+    {
+      "id": "pug_155",
+      "image": "images/pug_155.jpg",
+      "label": "pug",
+      "kind": "catalog",
+      "split": "train",
+      "source": "https://huggingface.co/datasets/timm/oxford-iiit-pet/viewer/default/train?row=42",
+      "sha256": "4c3554f2b39eb094c28626be0f46698d541690df33f9f7e379b9914131959f29",
+      "original_sha256": "c0f263a770260fe427c7c49477cf18a430e405c09234008feaf0a6b29004fce3",
+      "license": "CC-BY-SA-4.0",
+      "changes": "Resized to fit384x384 and re-encoded JPEG"
+    },
+    {
+      "id": "pug_11",
+      "image": "images/pug_11.jpg",
+      "label": "pug",
+      "kind": "catalog",
+      "split": "train",
+      "source": "https://huggingface.co/datasets/timm/oxford-iiit-pet/viewer/default/train?row=60",
+      "sha256": "403207eb5b05149331dd989e9e544171889b2d726679e407e290663fa8b3769b",
+      "original_sha256": "75bc8b04786acd4ed66f74e5ce3b17335c25b20879903701897f038fe03d2211",
+      "license": "CC-BY-SA-4.0",
+      "changes": "Resized to fit384x384 and re-encoded JPEG"
+    },
+    {
+      "id": "shiba_inu_178",
+      "image": "images/shiba_inu_178.jpg",
+      "label": "shiba_inu",
+      "kind": "catalog",
+      "split": "train",
+      "source": "https://huggingface.co/datasets/timm/oxford-iiit-pet/viewer/default/train?row=49",
+      "sha256": "78af1d4aad862dec818b95a0f8613ee8139e813371223a145b3cb4982980777d",
+      "original_sha256": "7677ec0b7dce15bae7666c3c82e62df0d0e9fdc16a66ae24ed85cbb203656ff9",
+      "license": "CC-BY-SA-4.0",
+      "changes": "Resized to fit384x384 and re-encoded JPEG"
+    },
+    {
+      "id": "shiba_inu_119",
+      "image": "images/shiba_inu_119.jpg",
+      "label": "shiba_inu",
+      "kind": "catalog",
+      "split": "train",
+      "source": "https://huggingface.co/datasets/timm/oxford-iiit-pet/viewer/default/train?row=50",
+      "sha256": "022926f055b39a3126c90b12d377a1dc4e858f80e0b61b99ba0409bc64d0c101",
+      "original_sha256": "ec9d7193c04bff693bbb670c6d91191c10d57ebb9b0603cbd99d625c88637230",
+      "license": "CC-BY-SA-4.0",
+      "changes": "Resized to fit384x384 and re-encoded JPEG"
+    },
+    {
+      "id": "shiba_inu_141",
+      "image": "images/shiba_inu_141.jpg",
+      "label": "shiba_inu",
+      "kind": "catalog",
+      "split": "train",
+      "source": "https://huggingface.co/datasets/timm/oxford-iiit-pet/viewer/default/train?row=100",
+      "sha256": "1cc823e9c889ee348df936f3c024dac2b1263f6d0cbd2861b14221d96db7c0af",
+      "original_sha256": "2f39a18c3b3b518db129301ebbfc7c5287c49f71334146c9c63a22258e1202f3",
+      "license": "CC-BY-SA-4.0",
+      "changes": "Resized to fit384x384 and re-encoded JPEG"
+    },
+    {
+      "id": "shiba_inu_185",
+      "image": "images/shiba_inu_185.jpg",
+      "label": "shiba_inu",
+      "kind": "catalog",
+      "split": "train",
+      "source": "https://huggingface.co/datasets/timm/oxford-iiit-pet/viewer/default/train?row=143",
+      "sha256": "c45a89d1fc1488cb30f11c35e2359da32cd1c2449d9c2b9f5d48098cc98f3071",
+      "original_sha256": "ac31e1824aed8da56bc83a472b2dce0094cd7f6dc3f0c33827bad18662c0d316",
+      "license": "CC-BY-SA-4.0",
+      "changes": "Resized to fit384x384 and re-encoded JPEG"
+    },
+    {
+      "id": "samoyed_127",
+      "image": "images/samoyed_127.jpg",
+      "label": "samoyed",
+      "kind": "catalog",
+      "split": "train",
+      "source": "https://huggingface.co/datasets/timm/oxford-iiit-pet/viewer/default/train?row=111",
+      "sha256": "694ba6aa3c3f497c3d44ddc8f719b2f0d4437baf92c243da2bc426c0272f86a6",
+      "original_sha256": "1566d2f262450e0e8597dcda74b9618de275bbd5bd8a4030c5b7b0f5b93e5378",
+      "license": "CC-BY-SA-4.0",
+      "changes": "Resized to fit384x384 and re-encoded JPEG"
+    },
+    {
+      "id": "samoyed_116",
+      "image": "images/samoyed_116.jpg",
+      "label": "samoyed",
+      "kind": "catalog",
+      "split": "train",
+      "source": "https://huggingface.co/datasets/timm/oxford-iiit-pet/viewer/default/train?row=114",
+      "sha256": "e3dc2e0c8505927a3c5bba6e2a71f6a7a43a14e7858796b9fc56d734a21eb3af",
+      "original_sha256": "7ff854ec5713961e563ec75d412338f503fe38189ca0c5fba0d167709be11a7b",
+      "license": "CC-BY-SA-4.0",
+      "changes": "Resized to fit384x384 and re-encoded JPEG"
+    },
+    {
+      "id": "samoyed_170",
+      "image": "images/samoyed_170.jpg",
+      "label": "samoyed",
+      "kind": "catalog",
+      "split": "train",
+      "source": "https://huggingface.co/datasets/timm/oxford-iiit-pet/viewer/default/train?row=145",
+      "sha256": "09837e0c217d8ad64faa0fca54e221aab9e19392568aa27f699f1b6b39e6f101",
+      "original_sha256": "7875e05e7ea59fea63a82dec66ec2ff3ed86e8877f2e77e93627a793b1fe025f",
+      "license": "CC-BY-SA-4.0",
+      "changes": "Resized to fit384x384 and re-encoded JPEG"
+    },
+    {
+      "id": "samoyed_139",
+      "image": "images/samoyed_139.jpg",
+      "label": "samoyed",
+      "kind": "catalog",
+      "split": "train",
+      "source": "https://huggingface.co/datasets/timm/oxford-iiit-pet/viewer/default/train?row=204",
+      "sha256": "72578a0340fc1311bd02b3a59126779c8209a621b3f0173bed16fc11d6d53050",
+      "original_sha256": "d49cc328553c4fede85cdd01725d5650f699bdfe1c11cf94ba2d3c627778d6ae",
+      "license": "CC-BY-SA-4.0",
+      "changes": "Resized to fit384x384 and re-encoded JPEG"
+    }
+  ],
+  "queries": [
+    {
+      "id": "text-Bengal_22",
+      "kind": "text",
+      "text": "a photo of a bengal cat",
+      "query_image": null,
+      "query_image_id": "Bengal_22",
+      "relevant_ids": [
+        "Bengal_103",
+        "Bengal_176",
+        "Bengal_123",
+        "Bengal_182"
+      ],
+      "results": {
+        "clip": [
+          {
+            "id": "Bengal_182",
+            "score": 0.30498838424682617
+          },
+          {
+            "id": "Bengal_103",
+            "score": 0.2843568027019501
+          },
+          {
+            "id": "Siamese_167",
+            "score": 0.2707832157611847
+          },
+          {
+            "id": "Bengal_123",
+            "score": 0.2701701521873474
+          },
+          {
+            "id": "Sphynx_1",
+            "score": 0.2628965973854065
+          },
+          {
+            "id": "Siamese_171",
+            "score": 0.25350722670555115
+          },
+          {
+            "id": "Sphynx_160",
+            "score": 0.25253790616989136
+          },
+          {
+            "id": "Sphynx_172",
+            "score": 0.2520928978919983
+          }
+        ],
+        "baseline": [
+          {
+            "id": "Bengal_103",
+            "score": 1.0
+          },
+          {
+            "id": "Bengal_123",
+            "score": 1.0
+          },
+          {
+            "id": "Bengal_176",
+            "score": 1.0
+          },
+          {
+            "id": "Bengal_182",
+            "score": 1.0
+          },
+          {
+            "id": "British_Shorthair_100",
+            "score": 0.0
+          },
+          {
+            "id": "British_Shorthair_176",
+            "score": 0.0
+          },
+          {
+            "id": "British_Shorthair_179",
+            "score": 0.0
+          },
+          {
+            "id": "British_Shorthair_189",
+            "score": 0.0
+          }
+        ]
+      },
+      "scores": {
+        "clip": {
+          "precision_at_5": 0.6,
+          "recall_at_5": 0.75,
+          "ndcg_at_5": 0.8048099750039491,
+          "mrr": 1.0
+        },
+        "baseline": {
+          "precision_at_5": 0.8,
+          "recall_at_5": 1.0,
+          "ndcg_at_5": 1.0,
+          "mrr": 1.0
+        }
+      },
+      "latency_ms": {
+        "clip": 78.57779995538294,
+        "baseline": 0.049900030717253685
+      }
+    },
+    {
+      "id": "image-Bengal_22",
+      "kind": "image",
+      "text": "a photo of a bengal cat",
+      "query_image": "images/Bengal_22.jpg",
+      "query_image_id": "Bengal_22",
+      "relevant_ids": [
+        "Bengal_103",
+        "Bengal_176",
+        "Bengal_123",
+        "Bengal_182"
+      ],
+      "results": {
+        "clip": [
+          {
+            "id": "Bengal_182",
+            "score": 0.7730761766433716
+          },
+          {
+            "id": "Siamese_171",
+            "score": 0.7647737860679626
+          },
+          {
+            "id": "Siamese_167",
+            "score": 0.755885899066925
+          },
+          {
+            "id": "Bengal_176",
+            "score": 0.7466657161712646
+          },
+          {
+            "id": "Bengal_103",
+            "score": 0.7437170147895813
+          },
+          {
+            "id": "British_Shorthair_176",
+            "score": 0.7432137131690979
+          },
+          {
+            "id": "beagle_188",
+            "score": 0.7417782545089722
+          },
+          {
+            "id": "British_Shorthair_189",
+            "score": 0.7343102693557739
+          }
+        ],
+        "baseline": [
+          {
+            "id": "samoyed_116",
+            "score": 0.9281027317047119
+          },
+          {
+            "id": "British_Shorthair_179",
+            "score": 0.9209551811218262
+          },
+          {
+            "id": "Siamese_171",
+            "score": 0.8814016580581665
+          },
+          {
+            "id": "beagle_178",
+            "score": 0.8666856288909912
+          },
+          {
+            "id": "Bengal_176",
+            "score": 0.8489348292350769
+          },
+          {
+            "id": "samoyed_170",
+            "score": 0.8220803737640381
+          },
+          {
+            "id": "beagle_188",
+            "score": 0.7978038191795349
+          },
+          {
+            "id": "Sphynx_202",
+            "score": 0.7940927743911743
+          }
+        ]
+      },
+      "scores": {
+        "clip": {
+          "precision_at_5": 0.6,
+          "recall_at_5": 0.75,
+          "ndcg_at_5": 0.7095272044910244,
+          "mrr": 1.0
+        },
+        "baseline": {
+          "precision_at_5": 0.2,
+          "recall_at_5": 0.25,
+          "ndcg_at_5": 0.15101961822780524,
+          "mrr": 0.2
+        }
+      },
+      "latency_ms": {
+        "clip": 102.41020005196333,
+        "baseline": 3.018900053575635
+      }
+    },
+    {
+      "id": "text-British_Shorthair_269",
+      "kind": "text",
+      "text": "a photo of a british shorthair cat",
+      "query_image": null,
+      "query_image_id": "British_Shorthair_269",
+      "relevant_ids": [
+        "British_Shorthair_100",
+        "British_Shorthair_179",
+        "British_Shorthair_189",
+        "British_Shorthair_176"
+      ],
+      "results": {
+        "clip": [
+          {
+            "id": "British_Shorthair_100",
+            "score": 0.3289119005203247
+          },
+          {
+            "id": "British_Shorthair_189",
+            "score": 0.32068848609924316
+          },
+          {
+            "id": "British_Shorthair_179",
+            "score": 0.3107270300388336
+          },
+          {
+            "id": "British_Shorthair_176",
+            "score": 0.3037976026535034
+          },
+          {
+            "id": "Siamese_171",
+            "score": 0.28022363781929016
+          },
+          {
+            "id": "Siamese_14",
+            "score": 0.27349966764450073
+          },
+          {
+            "id": "Sphynx_1",
+            "score": 0.2706792950630188
+          },
+          {
+            "id": "Sphynx_172",
+            "score": 0.27060914039611816
+          }
+        ],
+        "baseline": [
+          {
+            "id": "British_Shorthair_100",
+            "score": 1.0
+          },
+          {
+            "id": "British_Shorthair_176",
+            "score": 1.0
+          },
+          {
+            "id": "British_Shorthair_179",
+            "score": 1.0
+          },
+          {
+            "id": "British_Shorthair_189",
+            "score": 1.0
+          },
+          {
+            "id": "Bengal_103",
+            "score": 0.0
+          },
+          {
+            "id": "Bengal_123",
+            "score": 0.0
+          },
+          {
+            "id": "Bengal_176",
+            "score": 0.0
+          },
+          {
+            "id": "Bengal_182",
+            "score": 0.0
+          }
+        ]
+      },
+      "scores": {
+        "clip": {
+          "precision_at_5": 0.8,
+          "recall_at_5": 1.0,
+          "ndcg_at_5": 1.0,
+          "mrr": 1.0
+        },
+        "baseline": {
+          "precision_at_5": 0.8,
+          "recall_at_5": 1.0,
+          "ndcg_at_5": 1.0,
+          "mrr": 1.0
+        }
+      },
+      "latency_ms": {
+        "clip": 60.57139998301864,
+        "baseline": 0.04830001853406429
+      }
+    },
+    {
+      "id": "image-British_Shorthair_269",
+      "kind": "image",
+      "text": "a photo of a british shorthair cat",
+      "query_image": "images/British_Shorthair_269.jpg",
+      "query_image_id": "British_Shorthair_269",
+      "relevant_ids": [
+        "British_Shorthair_100",
+        "British_Shorthair_179",
+        "British_Shorthair_189",
+        "British_Shorthair_176"
+      ],
+      "results": {
+        "clip": [
+          {
+            "id": "British_Shorthair_100",
+            "score": 0.8523002862930298
+          },
+          {
+            "id": "British_Shorthair_189",
+            "score": 0.8231649994850159
+          },
+          {
+            "id": "British_Shorthair_176",
+            "score": 0.8008764386177063
+          },
+          {
+            "id": "Bengal_103",
+            "score": 0.7956005334854126
+          },
+          {
+            "id": "Sphynx_202",
+            "score": 0.7916847467422485
+          },
+          {
+            "id": "Sphynx_172",
+            "score": 0.7902880311012268
+          },
+          {
+            "id": "Sphynx_160",
+            "score": 0.7788172364234924
+          },
+          {
+            "id": "British_Shorthair_179",
+            "score": 0.7784456014633179
+          }
+        ],
+        "baseline": [
+          {
+            "id": "British_Shorthair_100",
+            "score": 0.582073986530304
+          },
+          {
+            "id": "Bengal_103",
+            "score": 0.5581088066101074
+          },
+          {
+            "id": "British_Shorthair_176",
+            "score": 0.49951547384262085
+          },
+          {
+            "id": "shiba_inu_178",
+            "score": 0.4311889410018921
+          },
+          {
+            "id": "pug_11",
+            "score": 0.26667320728302
+          },
+          {
+            "id": "beagle_143",
+            "score": 0.2540704011917114
+          },
+          {
+            "id": "British_Shorthair_179",
+            "score": 0.24905988574028015
+          },
+          {
+            "id": "Siamese_171",
+            "score": 0.23298978805541992
+          }
+        ]
+      },
+      "scores": {
+        "clip": {
+          "precision_at_5": 0.6,
+          "recall_at_5": 0.75,
+          "ndcg_at_5": 0.8318724637288826,
+          "mrr": 1.0
+        },
+        "baseline": {
+          "precision_at_5": 0.4,
+          "recall_at_5": 0.5,
+          "ndcg_at_5": 0.5855700749881525,
+          "mrr": 1.0
+        }
+      },
+      "latency_ms": {
+        "clip": 84.68109997920692,
+        "baseline": 3.0253001023083925
+      }
+    },
+    {
+      "id": "text-Siamese_240",
+      "kind": "text",
+      "text": "a photo of a siamese cat",
+      "query_image": null,
+      "query_image_id": "Siamese_240",
+      "relevant_ids": [
+        "Siamese_167",
+        "Siamese_14",
+        "Siamese_171",
+        "Siamese_160"
+      ],
+      "results": {
+        "clip": [
+          {
+            "id": "Siamese_14",
+            "score": 0.3327915072441101
+          },
+          {
+            "id": "Siamese_171",
+            "score": 0.3165110945701599
+          },
+          {
+            "id": "Siamese_160",
+            "score": 0.3142837584018707
+          },
+          {
+            "id": "Siamese_167",
+            "score": 0.3060874938964844
+          },
+          {
+            "id": "Sphynx_172",
+            "score": 0.2946644425392151
+          },
+          {
+            "id": "Sphynx_202",
+            "score": 0.29123741388320923
+          },
+          {
+            "id": "British_Shorthair_189",
+            "score": 0.2877260148525238
+          },
+          {
+            "id": "Sphynx_1",
+            "score": 0.28427591919898987
+          }
+        ],
+        "baseline": [
+          {
+            "id": "Siamese_14",
+            "score": 1.0
+          },
+          {
+            "id": "Siamese_160",
+            "score": 1.0
+          },
+          {
+            "id": "Siamese_167",
+            "score": 1.0
+          },
+          {
+            "id": "Siamese_171",
+            "score": 1.0
+          },
+          {
+            "id": "Bengal_103",
+            "score": 0.0
+          },
+          {
+            "id": "Bengal_123",
+            "score": 0.0
+          },
+          {
+            "id": "Bengal_176",
+            "score": 0.0
+          },
+          {
+            "id": "Bengal_182",
+            "score": 0.0
+          }
+        ]
+      },
+      "scores": {
+        "clip": {
+          "precision_at_5": 0.8,
+          "recall_at_5": 1.0,
+          "ndcg_at_5": 1.0,
+          "mrr": 1.0
+        },
+        "baseline": {
+          "precision_at_5": 0.8,
+          "recall_at_5": 1.0,
+          "ndcg_at_5": 1.0,
+          "mrr": 1.0
+        }
+      },
+      "latency_ms": {
+        "clip": 53.270099917426705,
+        "baseline": 0.03320001997053623
+      }
+    },
+    {
+      "id": "image-Siamese_240",
+      "kind": "image",
+      "text": "a photo of a siamese cat",
+      "query_image": "images/Siamese_240.jpg",
+      "query_image_id": "Siamese_240",
+      "relevant_ids": [
+        "Siamese_167",
+        "Siamese_14",
+        "Siamese_171",
+        "Siamese_160"
+      ],
+      "results": {
+        "clip": [
+          {
+            "id": "Siamese_167",
+            "score": 0.8875732421875
+          },
+          {
+            "id": "Bengal_176",
+            "score": 0.871630072593689
+          },
+          {
+            "id": "British_Shorthair_189",
+            "score": 0.8504098653793335
+          },
+          {
+            "id": "pug_155",
+            "score": 0.8431788682937622
+          },
+          {
+            "id": "Siamese_14",
+            "score": 0.8273746967315674
+          },
+          {
+            "id": "Bengal_182",
+            "score": 0.826525092124939
+          },
+          {
+            "id": "British_Shorthair_176",
+            "score": 0.8120492696762085
+          },
+          {
+            "id": "Sphynx_1",
+            "score": 0.8104867935180664
+          }
+        ],
+        "baseline": [
+          {
+            "id": "shiba_inu_178",
+            "score": 0.8477100133895874
+          },
+          {
+            "id": "samoyed_170",
+            "score": 0.8302661180496216
+          },
+          {
+            "id": "Siamese_14",
+            "score": 0.810978353023529
+          },
+          {
+            "id": "pug_123",
+            "score": 0.7961169481277466
+          },
+          {
+            "id": "Siamese_167",
+            "score": 0.7820736169815063
+          },
+          {
+            "id": "Siamese_171",
+            "score": 0.7182965278625488
+          },
+          {
+            "id": "British_Shorthair_179",
+            "score": 0.7024781107902527
+          },
+          {
+            "id": "pug_10",
+            "score": 0.6915881633758545
+          }
+        ]
+      },
+      "scores": {
+        "clip": {
+          "precision_at_5": 0.4,
+          "recall_at_5": 0.5,
+          "ndcg_at_5": 0.5413996682199069,
+          "mrr": 1.0
+        },
+        "baseline": {
+          "precision_at_5": 0.4,
+          "recall_at_5": 0.5,
+          "ndcg_at_5": 0.34620964322385606,
+          "mrr": 0.3333333333333333
+        }
+      },
+      "latency_ms": {
+        "clip": 106.35589994490147,
+        "baseline": 1.4440999366343021
+      }
+    },
+    {
+      "id": "text-Sphynx_59",
+      "kind": "text",
+      "text": "a photo of a sphynx cat",
+      "query_image": null,
+      "query_image_id": "Sphynx_59",
+      "relevant_ids": [
+        "Sphynx_202",
+        "Sphynx_1",
+        "Sphynx_172",
+        "Sphynx_160"
+      ],
+      "results": {
+        "clip": [
+          {
+            "id": "Sphynx_172",
+            "score": 0.34152165055274963
+          },
+          {
+            "id": "Sphynx_1",
+            "score": 0.33998847007751465
+          },
+          {
+            "id": "Sphynx_160",
+            "score": 0.33577537536621094
+          },
+          {
+            "id": "Sphynx_202",
+            "score": 0.33090740442276
+          },
+          {
+            "id": "Siamese_14",
+            "score": 0.2791382968425751
+          },
+          {
+            "id": "Siamese_167",
+            "score": 0.2708151042461395
+          },
+          {
+            "id": "British_Shorthair_100",
+            "score": 0.26499465107917786
+          },
+          {
+            "id": "Siamese_160",
+            "score": 0.2642344534397125
+          }
+        ],
+        "baseline": [
+          {
+            "id": "Sphynx_1",
+            "score": 1.0
+          },
+          {
+            "id": "Sphynx_160",
+            "score": 1.0
+          },
+          {
+            "id": "Sphynx_172",
+            "score": 1.0
+          },
+          {
+            "id": "Sphynx_202",
+            "score": 1.0
+          },
+          {
+            "id": "Bengal_103",
+            "score": 0.0
+          },
+          {
+            "id": "Bengal_123",
+            "score": 0.0
+          },
+          {
+            "id": "Bengal_176",
+            "score": 0.0
+          },
+          {
+            "id": "Bengal_182",
+            "score": 0.0
+          }
+        ]
+      },
+      "scores": {
+        "clip": {
+          "precision_at_5": 0.8,
+          "recall_at_5": 1.0,
+          "ndcg_at_5": 1.0,
+          "mrr": 1.0
+        },
+        "baseline": {
+          "precision_at_5": 0.8,
+          "recall_at_5": 1.0,
+          "ndcg_at_5": 1.0,
+          "mrr": 1.0
+        }
+      },
+      "latency_ms": {
+        "clip": 58.22740006260574,
+        "baseline": 0.029799994081258774
+      }
+    },
+    {
+      "id": "image-Sphynx_59",
+      "kind": "image",
+      "text": "a photo of a sphynx cat",
+      "query_image": "images/Sphynx_59.jpg",
+      "query_image_id": "Sphynx_59",
+      "relevant_ids": [
+        "Sphynx_202",
+        "Sphynx_1",
+        "Sphynx_172",
+        "Sphynx_160"
+      ],
+      "results": {
+        "clip": [
+          {
+            "id": "Siamese_167",
+            "score": 0.8394261598587036
+          },
+          {
+            "id": "Sphynx_1",
+            "score": 0.8212013840675354
+          },
+          {
+            "id": "British_Shorthair_189",
+            "score": 0.807695746421814
+          },
+          {
+            "id": "Sphynx_172",
+            "score": 0.8076176643371582
+          },
+          {
+            "id": "Siamese_171",
+            "score": 0.7845174074172974
+          },
+          {
+            "id": "Bengal_182",
+            "score": 0.7837424278259277
+          },
+          {
+            "id": "Siamese_14",
+            "score": 0.7834614515304565
+          },
+          {
+            "id": "British_Shorthair_176",
+            "score": 0.7790038585662842
+          }
+        ],
+        "baseline": [
+          {
+            "id": "pug_11",
+            "score": 0.8646445870399475
+          },
+          {
+            "id": "beagle_178",
+            "score": 0.8520883321762085
+          },
+          {
+            "id": "beagle_188",
+            "score": 0.8144724369049072
+          },
+          {
+            "id": "Bengal_176",
+            "score": 0.8132399320602417
+          },
+          {
+            "id": "Siamese_171",
+            "score": 0.8034700155258179
+          },
+          {
+            "id": "British_Shorthair_179",
+            "score": 0.7815045118331909
+          },
+          {
+            "id": "samoyed_116",
+            "score": 0.7736987471580505
+          },
+          {
+            "id": "beagle_157",
+            "score": 0.7623436450958252
+          }
+        ]
+      },
+      "scores": {
+        "clip": {
+          "precision_at_5": 0.4,
+          "recall_at_5": 0.5,
+          "ndcg_at_5": 0.4144299250118475,
+          "mrr": 0.5
+        },
+        "baseline": {
+          "precision_at_5": 0.0,
+          "recall_at_5": 0.0,
+          "ndcg_at_5": 0.0,
+          "mrr": 0.1
+        }
+      },
+      "latency_ms": {
+        "clip": 84.79530015029013,
+        "baseline": 2.5791998486965895
+      }
+    },
+    {
+      "id": "text-beagle_44",
+      "kind": "text",
+      "text": "a photo of a beagle dog",
+      "query_image": null,
+      "query_image_id": "beagle_44",
+      "relevant_ids": [
+        "beagle_178",
+        "beagle_143",
+        "beagle_157",
+        "beagle_188"
+      ],
+      "results": {
+        "clip": [
+          {
+            "id": "beagle_178",
+            "score": 0.30368852615356445
+          },
+          {
+            "id": "beagle_143",
+            "score": 0.29463085532188416
+          },
+          {
+            "id": "beagle_188",
+            "score": 0.2908487617969513
+          },
+          {
+            "id": "beagle_157",
+            "score": 0.29071277379989624
+          },
+          {
+            "id": "shiba_inu_141",
+            "score": 0.27207961678504944
+          },
+          {
+            "id": "shiba_inu_119",
+            "score": 0.23844146728515625
+          },
+          {
+            "id": "pug_123",
+            "score": 0.2310018092393875
+          },
+          {
+            "id": "shiba_inu_185",
+            "score": 0.22638681530952454
+          }
+        ],
+        "baseline": [
+          {
+            "id": "beagle_143",
+            "score": 1.0
+          },
+          {
+            "id": "beagle_157",
+            "score": 1.0
+          },
+          {
+            "id": "beagle_178",
+            "score": 1.0
+          },
+          {
+            "id": "beagle_188",
+            "score": 1.0
+          },
+          {
+            "id": "Bengal_103",
+            "score": 0.0
+          },
+          {
+            "id": "Bengal_123",
+            "score": 0.0
+          },
+          {
+            "id": "Bengal_176",
+            "score": 0.0
+          },
+          {
+            "id": "Bengal_182",
+            "score": 0.0
+          }
+        ]
+      },
+      "scores": {
+        "clip": {
+          "precision_at_5": 0.8,
+          "recall_at_5": 1.0,
+          "ndcg_at_5": 1.0,
+          "mrr": 1.0
+        },
+        "baseline": {
+          "precision_at_5": 0.8,
+          "recall_at_5": 1.0,
+          "ndcg_at_5": 1.0,
+          "mrr": 1.0
+        }
+      },
+      "latency_ms": {
+        "clip": 53.53159992955625,
+        "baseline": 0.035499921068549156
+      }
+    },
+    {
+      "id": "image-beagle_44",
+      "kind": "image",
+      "text": "a photo of a beagle dog",
+      "query_image": "images/beagle_44.jpg",
+      "query_image_id": "beagle_44",
+      "relevant_ids": [
+        "beagle_178",
+        "beagle_143",
+        "beagle_157",
+        "beagle_188"
+      ],
+      "results": {
+        "clip": [
+          {
+            "id": "beagle_188",
+            "score": 0.8704860806465149
+          },
+          {
+            "id": "beagle_157",
+            "score": 0.8505865335464478
+          },
+          {
+            "id": "beagle_178",
+            "score": 0.8490435481071472
+          },
+          {
+            "id": "beagle_143",
+            "score": 0.8052070140838623
+          },
+          {
+            "id": "pug_11",
+            "score": 0.7978066802024841
+          },
+          {
+            "id": "shiba_inu_119",
+            "score": 0.7955828905105591
+          },
+          {
+            "id": "pug_155",
+            "score": 0.7798441052436829
+          },
+          {
+            "id": "shiba_inu_141",
+            "score": 0.7606247067451477
+          }
+        ],
+        "baseline": [
+          {
+            "id": "British_Shorthair_179",
+            "score": 0.9496175050735474
+          },
+          {
+            "id": "Bengal_176",
+            "score": 0.9328247308731079
+          },
+          {
+            "id": "beagle_178",
+            "score": 0.9325425028800964
+          },
+          {
+            "id": "Siamese_171",
+            "score": 0.9141044020652771
+          },
+          {
+            "id": "shiba_inu_119",
+            "score": 0.9055158495903015
+          },
+          {
+            "id": "samoyed_116",
+            "score": 0.8326526284217834
+          },
+          {
+            "id": "British_Shorthair_176",
+            "score": 0.8157216310501099
+          },
+          {
+            "id": "Sphynx_202",
+            "score": 0.8032258749008179
+          }
+        ]
+      },
+      "scores": {
+        "clip": {
+          "precision_at_5": 0.8,
+          "recall_at_5": 1.0,
+          "ndcg_at_5": 1.0,
+          "mrr": 1.0
+        },
+        "baseline": {
+          "precision_at_5": 0.2,
+          "recall_at_5": 0.25,
+          "ndcg_at_5": 0.19519002499605084,
+          "mrr": 0.3333333333333333
+        }
+      },
+      "latency_ms": {
+        "clip": 86.1346002202481,
+        "baseline": 1.4202999882400036
+      }
+    },
+    {
+      "id": "text-pug_57",
+      "kind": "text",
+      "text": "a photo of a pug dog",
+      "query_image": null,
+      "query_image_id": "pug_57",
+      "relevant_ids": [
+        "pug_123",
+        "pug_10",
+        "pug_155",
+        "pug_11"
+      ],
+      "results": {
+        "clip": [
+          {
+            "id": "pug_123",
+            "score": 0.3192335367202759
+          },
+          {
+            "id": "pug_10",
+            "score": 0.31838661432266235
+          },
+          {
+            "id": "pug_11",
+            "score": 0.3137066960334778
+          },
+          {
+            "id": "pug_155",
+            "score": 0.282595157623291
+          },
+          {
+            "id": "samoyed_170",
+            "score": 0.24307723343372345
+          },
+          {
+            "id": "beagle_188",
+            "score": 0.23808136582374573
+          },
+          {
+            "id": "shiba_inu_185",
+            "score": 0.23428954184055328
+          },
+          {
+            "id": "samoyed_116",
+            "score": 0.23161041736602783
+          }
+        ],
+        "baseline": [
+          {
+            "id": "pug_10",
+            "score": 1.0
+          },
+          {
+            "id": "pug_11",
+            "score": 1.0
+          },
+          {
+            "id": "pug_123",
+            "score": 1.0
+          },
+          {
+            "id": "pug_155",
+            "score": 1.0
+          },
+          {
+            "id": "Bengal_103",
+            "score": 0.0
+          },
+          {
+            "id": "Bengal_123",
+            "score": 0.0
+          },
+          {
+            "id": "Bengal_176",
+            "score": 0.0
+          },
+          {
+            "id": "Bengal_182",
+            "score": 0.0
+          }
+        ]
+      },
+      "scores": {
+        "clip": {
+          "precision_at_5": 0.8,
+          "recall_at_5": 1.0,
+          "ndcg_at_5": 1.0,
+          "mrr": 1.0
+        },
+        "baseline": {
+          "precision_at_5": 0.8,
+          "recall_at_5": 1.0,
+          "ndcg_at_5": 1.0,
+          "mrr": 1.0
+        }
+      },
+      "latency_ms": {
+        "clip": 58.02000011317432,
+        "baseline": 0.04220008850097656
+      }
+    },
+    {
+      "id": "image-pug_57",
+      "kind": "image",
+      "text": "a photo of a pug dog",
+      "query_image": "images/pug_57.jpg",
+      "query_image_id": "pug_57",
+      "relevant_ids": [
+        "pug_123",
+        "pug_10",
+        "pug_155",
+        "pug_11"
+      ],
+      "results": {
+        "clip": [
+          {
+            "id": "pug_11",
+            "score": 0.9045767784118652
+          },
+          {
+            "id": "pug_155",
+            "score": 0.8830041289329529
+          },
+          {
+            "id": "pug_123",
+            "score": 0.8531379699707031
+          },
+          {
+            "id": "beagle_188",
+            "score": 0.7896038293838501
+          },
+          {
+            "id": "pug_10",
+            "score": 0.7862377166748047
+          },
+          {
+            "id": "shiba_inu_119",
+            "score": 0.7765576243400574
+          },
+          {
+            "id": "beagle_178",
+            "score": 0.7711665034294128
+          },
+          {
+            "id": "beagle_157",
+            "score": 0.7689492702484131
+          }
+        ],
+        "baseline": [
+          {
+            "id": "Sphynx_202",
+            "score": 0.8502118587493896
+          },
+          {
+            "id": "samoyed_127",
+            "score": 0.8271374702453613
+          },
+          {
+            "id": "samoyed_116",
+            "score": 0.8049902319908142
+          },
+          {
+            "id": "samoyed_139",
+            "score": 0.7649326920509338
+          },
+          {
+            "id": "British_Shorthair_179",
+            "score": 0.75642329454422
+          },
+          {
+            "id": "Bengal_176",
+            "score": 0.7563234567642212
+          },
+          {
+            "id": "British_Shorthair_100",
+            "score": 0.7453579902648926
+          },
+          {
+            "id": "beagle_178",
+            "score": 0.7350587844848633
+          }
+        ]
+      },
+      "scores": {
+        "clip": {
+          "precision_at_5": 0.8,
+          "recall_at_5": 1.0,
+          "ndcg_at_5": 0.9828920819566879,
+          "mrr": 1.0
+        },
+        "baseline": {
+          "precision_at_5": 0.0,
+          "recall_at_5": 0.0,
+          "ndcg_at_5": 0.0,
+          "mrr": 0.07692307692307693
+        }
+      },
+      "latency_ms": {
+        "clip": 88.70409987866879,
+        "baseline": 2.5241998955607414
+      }
+    },
+    {
+      "id": "text-shiba_inu_8",
+      "kind": "text",
+      "text": "a photo of a shiba inu dog",
+      "query_image": null,
+      "query_image_id": "shiba_inu_8",
+      "relevant_ids": [
+        "shiba_inu_178",
+        "shiba_inu_119",
+        "shiba_inu_141",
+        "shiba_inu_185"
+      ],
+      "results": {
+        "clip": [
+          {
+            "id": "shiba_inu_141",
+            "score": 0.33544641733169556
+          },
+          {
+            "id": "shiba_inu_119",
+            "score": 0.3332124352455139
+          },
+          {
+            "id": "shiba_inu_178",
+            "score": 0.3145817816257477
+          },
+          {
+            "id": "shiba_inu_185",
+            "score": 0.3034096658229828
+          },
+          {
+            "id": "samoyed_139",
+            "score": 0.2695276141166687
+          },
+          {
+            "id": "samoyed_116",
+            "score": 0.2693282663822174
+          },
+          {
+            "id": "samoyed_170",
+            "score": 0.2495986819267273
+          },
+          {
+            "id": "samoyed_127",
+            "score": 0.23242613673210144
+          }
+        ],
+        "baseline": [
+          {
+            "id": "shiba_inu_119",
+            "score": 1.0
+          },
+          {
+            "id": "shiba_inu_141",
+            "score": 1.0
+          },
+          {
+            "id": "shiba_inu_178",
+            "score": 1.0
+          },
+          {
+            "id": "shiba_inu_185",
+            "score": 1.0
+          },
+          {
+            "id": "Bengal_103",
+            "score": 0.0
+          },
+          {
+            "id": "Bengal_123",
+            "score": 0.0
+          },
+          {
+            "id": "Bengal_176",
+            "score": 0.0
+          },
+          {
+            "id": "Bengal_182",
+            "score": 0.0
+          }
+        ]
+      },
+      "scores": {
+        "clip": {
+          "precision_at_5": 0.8,
+          "recall_at_5": 1.0,
+          "ndcg_at_5": 1.0,
+          "mrr": 1.0
+        },
+        "baseline": {
+          "precision_at_5": 0.8,
+          "recall_at_5": 1.0,
+          "ndcg_at_5": 1.0,
+          "mrr": 1.0
+        }
+      },
+      "latency_ms": {
+        "clip": 56.438899831846356,
+        "baseline": 0.043800100684165955
+      }
+    },
+    {
+      "id": "image-shiba_inu_8",
+      "kind": "image",
+      "text": "a photo of a shiba inu dog",
+      "query_image": "images/shiba_inu_8.jpg",
+      "query_image_id": "shiba_inu_8",
+      "relevant_ids": [
+        "shiba_inu_178",
+        "shiba_inu_119",
+        "shiba_inu_141",
+        "shiba_inu_185"
+      ],
+      "results": {
+        "clip": [
+          {
+            "id": "shiba_inu_119",
+            "score": 0.8585258722305298
+          },
+          {
+            "id": "shiba_inu_185",
+            "score": 0.8517921566963196
+          },
+          {
+            "id": "shiba_inu_141",
+            "score": 0.8397136926651001
+          },
+          {
+            "id": "shiba_inu_178",
+            "score": 0.826694905757904
+          },
+          {
+            "id": "samoyed_139",
+            "score": 0.8204981684684753
+          },
+          {
+            "id": "samoyed_127",
+            "score": 0.7950904965400696
+          },
+          {
+            "id": "beagle_188",
+            "score": 0.7842504978179932
+          },
+          {
+            "id": "beagle_143",
+            "score": 0.7753767967224121
+          }
+        ],
+        "baseline": [
+          {
+            "id": "Siamese_171",
+            "score": 0.9594743251800537
+          },
+          {
+            "id": "pug_10",
+            "score": 0.9481569528579712
+          },
+          {
+            "id": "samoyed_170",
+            "score": 0.9285857081413269
+          },
+          {
+            "id": "British_Shorthair_189",
+            "score": 0.9162200689315796
+          },
+          {
+            "id": "Siamese_160",
+            "score": 0.9120212197303772
+          },
+          {
+            "id": "beagle_188",
+            "score": 0.9006338715553284
+          },
+          {
+            "id": "pug_123",
+            "score": 0.8883908987045288
+          },
+          {
+            "id": "British_Shorthair_179",
+            "score": 0.8816330432891846
+          }
+        ]
+      },
+      "scores": {
+        "clip": {
+          "precision_at_5": 0.8,
+          "recall_at_5": 1.0,
+          "ndcg_at_5": 1.0,
+          "mrr": 1.0
+        },
+        "baseline": {
+          "precision_at_5": 0.0,
+          "recall_at_5": 0.0,
+          "ndcg_at_5": 0.0,
+          "mrr": 0.07692307692307693
+        }
+      },
+      "latency_ms": {
+        "clip": 88.88630010187626,
+        "baseline": 1.707300078123808
+      }
+    },
+    {
+      "id": "text-samoyed_80",
+      "kind": "text",
+      "text": "a photo of a samoyed dog",
+      "query_image": null,
+      "query_image_id": "samoyed_80",
+      "relevant_ids": [
+        "samoyed_127",
+        "samoyed_116",
+        "samoyed_170",
+        "samoyed_139"
+      ],
+      "results": {
+        "clip": [
+          {
+            "id": "samoyed_139",
+            "score": 0.34644848108291626
+          },
+          {
+            "id": "samoyed_116",
+            "score": 0.3389686942100525
+          },
+          {
+            "id": "samoyed_170",
+            "score": 0.3277627229690552
+          },
+          {
+            "id": "samoyed_127",
+            "score": 0.32187387347221375
+          },
+          {
+            "id": "shiba_inu_185",
+            "score": 0.27649426460266113
+          },
+          {
+            "id": "shiba_inu_141",
+            "score": 0.2763091027736664
+          },
+          {
+            "id": "shiba_inu_119",
+            "score": 0.23529106378555298
+          },
+          {
+            "id": "shiba_inu_178",
+            "score": 0.22844606637954712
+          }
+        ],
+        "baseline": [
+          {
+            "id": "samoyed_116",
+            "score": 1.0
+          },
+          {
+            "id": "samoyed_127",
+            "score": 1.0
+          },
+          {
+            "id": "samoyed_139",
+            "score": 1.0
+          },
+          {
+            "id": "samoyed_170",
+            "score": 1.0
+          },
+          {
+            "id": "Bengal_103",
+            "score": 0.0
+          },
+          {
+            "id": "Bengal_123",
+            "score": 0.0
+          },
+          {
+            "id": "Bengal_176",
+            "score": 0.0
+          },
+          {
+            "id": "Bengal_182",
+            "score": 0.0
+          }
+        ]
+      },
+      "scores": {
+        "clip": {
+          "precision_at_5": 0.8,
+          "recall_at_5": 1.0,
+          "ndcg_at_5": 1.0,
+          "mrr": 1.0
+        },
+        "baseline": {
+          "precision_at_5": 0.8,
+          "recall_at_5": 1.0,
+          "ndcg_at_5": 1.0,
+          "mrr": 1.0
+        }
+      },
+      "latency_ms": {
+        "clip": 55.307800183072686,
+        "baseline": 0.03290013410151005
+      }
+    },
+    {
+      "id": "image-samoyed_80",
+      "kind": "image",
+      "text": "a photo of a samoyed dog",
+      "query_image": "images/samoyed_80.jpg",
+      "query_image_id": "samoyed_80",
+      "relevant_ids": [
+        "samoyed_127",
+        "samoyed_116",
+        "samoyed_170",
+        "samoyed_139"
+      ],
+      "results": {
+        "clip": [
+          {
+            "id": "samoyed_139",
+            "score": 0.8763189315795898
+          },
+          {
+            "id": "shiba_inu_185",
+            "score": 0.87284255027771
+          },
+          {
+            "id": "samoyed_127",
+            "score": 0.8598604798316956
+          },
+          {
+            "id": "samoyed_116",
+            "score": 0.8474676609039307
+          },
+          {
+            "id": "samoyed_170",
+            "score": 0.82487952709198
+          },
+          {
+            "id": "shiba_inu_119",
+            "score": 0.7905393838882446
+          },
+          {
+            "id": "shiba_inu_178",
+            "score": 0.7693194150924683
+          },
+          {
+            "id": "shiba_inu_141",
+            "score": 0.7524051666259766
+          }
+        ],
+        "baseline": [
+          {
+            "id": "Siamese_171",
+            "score": 0.7803391218185425
+          },
+          {
+            "id": "pug_10",
+            "score": 0.7740160226821899
+          },
+          {
+            "id": "British_Shorthair_189",
+            "score": 0.7617104053497314
+          },
+          {
+            "id": "Bengal_176",
+            "score": 0.7490826845169067
+          },
+          {
+            "id": "British_Shorthair_179",
+            "score": 0.7404459714889526
+          },
+          {
+            "id": "British_Shorthair_176",
+            "score": 0.7348213195800781
+          },
+          {
+            "id": "Siamese_160",
+            "score": 0.7320562601089478
+          },
+          {
+            "id": "samoyed_170",
+            "score": 0.7299104928970337
+          }
+        ]
+      },
+      "scores": {
+        "clip": {
+          "precision_at_5": 0.8,
+          "recall_at_5": 1.0,
+          "ndcg_at_5": 0.9047172294870751,
+          "mrr": 1.0
+        },
+        "baseline": {
+          "precision_at_5": 0.0,
+          "recall_at_5": 0.0,
+          "ndcg_at_5": 0.0,
+          "mrr": 0.125
+        }
+      },
+      "latency_ms": {
+        "clip": 87.82220003195107,
+        "baseline": 2.920400118455291
+      }
+    }
+  ],
+  "metrics": {
+    "clip": {
+      "precision_at_5": 0.7125,
+      "recall_at_5": 0.890625,
+      "ndcg_at_5": 0.8868530342437109,
+      "mrr": 0.96875,
+      "mean_latency_ms": 75.23341877094936,
+      "queries": 16
+    },
+    "baseline": {
+      "precision_at_5": 0.475,
+      "recall_at_5": 0.59375,
+      "ndcg_at_5": 0.5798743350897415,
+      "mrr": 0.6403445512820513,
+      "mean_latency_ms": 1.1847062705783173,
+      "queries": 16
+    }
+  },
+  "by_kind": {
+    "text": {
+      "clip": {
+        "precision_at_5": 0.775,
+        "recall_at_5": 0.96875,
+        "ndcg_at_5": 0.9756012468754937,
+        "mrr": 1.0,
+        "mean_latency_ms": 59.243124997010455,
+        "queries": 8
+      },
+      "baseline": {
+        "precision_at_5": 0.8,
+        "recall_at_5": 1.0,
+        "ndcg_at_5": 1.0,
+        "mrr": 1.0,
+        "mean_latency_ms": 0.03945003845728934,
+        "queries": 8
+      }
+    },
+    "image": {
+      "clip": {
+        "precision_at_5": 0.65,
+        "recall_at_5": 0.8125,
+        "ndcg_at_5": 0.798104821611928,
+        "mrr": 0.9375,
+        "mean_latency_ms": 91.22371254488826,
+        "queries": 8
+      },
+      "baseline": {
+        "precision_at_5": 0.15,
+        "recall_at_5": 0.1875,
+        "ndcg_at_5": 0.15974867017948308,
+        "mrr": 0.28068910256410257,
+        "mean_latency_ms": 2.3299625026993454,
+        "queries": 8
+      }
+    }
+  },
+  "index": {
+    "version": "0.1",
+    "dimensions": 512,
+    "count": 32,
+    "bytes": 124794,
+    "sha256": "98e6b50f0f99d14977f1651a2fdc7da0af579e21583302ff56697214ee1c25e1"
+  },
+  "update": {
+    "before_count": 32,
+    "after_count": 33,
+    "idempotent_count": 33,
+    "restored_count": 32,
+    "new_item_top_result": "Bengal_22",
+    "version_changed": true,
+    "restored_original_hash": true,
+    "note": "Update executed only after evaluation; held-out query image is inserted then removed and never contributes to reported metrics."
+  },
+  "provenance": {
+    "model": "OpenAI CLIP ViT-B/32",
+    "checkpoint_sha256": "40d365715913c9da98579312b702a82c18be219cc2a73407c4526f58eba950af",
+    "model_card": "https://huggingface.co/openai/clip-vit-base-patch32",
+    "dataset": "Oxford-IIIT Pet subset via timm mirror",
+    "dataset_url": "https://www.robots.ox.ac.uk/~vgg/data/pets/",
+    "dataset_license": "CC-BY-SA-4.0",
+    "catalog_split": "32 train images, four per breed",
+    "query_split": "8 separate test images, one per breed",
+    "relevance": "Dataset breed labels are a constrained proxy, not independently collected human search judgments.",
+    "baseline": "Metadata token overlap for text; 48-dimensional RGB histogram cosine for image queries.",
+    "index_build_ms": 2903.542600106448,
+    "model_initialization_ms": 8005.67359989509,
+    "python": "3.11.9",
+    "device": "CPU; two PyTorch threads",
+    "image_changes": "Resized to fit384x384; JPEG re-encoding. Rights remain with original owners; see ATTRIBUTION.md."
+  },
+  "limitations": [
+    "A fixed eight-breed, 32-photo catalog is a constrained research demonstration, not a general visual search service.",
+    "Breed agreement is only a relevance proxy; no independent human search-quality study was performed.",
+    "Catalog and query IDs/bytes are disjoint, but original CLIP pretraining overlap with Oxford Pets is unknown.",
+    "Text queries name the breed; metadata lexical matching has privileged labels and is a strong baseline. Image baseline uses only color histograms.",
+    "CLIP scores are cosine similarities, not calibrated probabilities. Top matches are returned even for irrelevant queries.",
+    "Local warmed single-query timings include query encoding and exact search, but exclude model initialization, HTTP, concurrent load, and image downloading.",
+    "OpenAI CLIP model card describes research scope; no unrestricted production suitability is claimed."
+  ]
+}
